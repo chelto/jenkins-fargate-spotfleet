@@ -4,7 +4,7 @@ Needs work:
 -Needs refining of Instance profile IMA. aws_iam_policy_document.ec2_spotfleet_policy_doc
 ssh keys for Jenkins plugin? how to create and store private key securely
 
-![fargate_jenkins_spotfleet](https://user-images.githubusercontent.com/6548443/169323131-1035ac53-9484-4b31-8fe5-5aa0e7a9cbf6.jpg)
+![fargate_jenkins_spotfleet](architecture.jpg)
 
 
 ## Prerequisites
